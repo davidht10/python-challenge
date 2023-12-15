@@ -1,0 +1,7 @@
+Financial Analysis 
+-------------- 
+Total number of months: 86 
+The net profit is: $38382578.0 
+Average change in Profit/Losses: $-2315.12 
+Greatest increase in profits: Feb-2012, ($1926159.0) 
+Greatest decrease in profits: Sep-2013, ($-2196167.0) 
